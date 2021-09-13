@@ -2,32 +2,20 @@
 	"Work History": [{
 		"Title": "Automatically Generating frogs",
 		"Company": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+		"Dates": "BEA Workshop",
+		
 	},
 	{
 		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
 		"Company": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Dates": "Human-in-the-Loop Dialogue Systems Workshop",
+		
 	},
 	{
 		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
 		"Company": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
-	},
-	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Company": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
-	},
-	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Company": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Dates": "ACL",
+		
 	}]
 	
 }
